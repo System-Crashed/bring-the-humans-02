@@ -183,6 +183,17 @@ For this guide, the referral link is [https://make.fun/r/f7z1eyxy](https://make.
 | Your README is missing a badge or referral code. | The guide check rejects a README with missing badges or code. | Restore all three badge lines and include the referral code as text in the README. |
 | You made the repository private or renamed it. | The final check reads the submitted repository again. | Keep the repository public under the same name and owner, with the referral code still in the README. |
 
+## Your first submission will probably not win — submit it anyway
+
+Expect your first entry to land somewhere in the middle of the pack.
+Getting an entry through the checks and seeing how it scores will teach you what the judges reward.
+
+Read the full status for your entry. Fix the biggest issue first, then run the checks again.
+If you still have quota and time before the deadline, resubmit and check the new status.
+
+A valid entry submitted early beats a polished one that misses the deadline.
+Even when both entries make the deadline, an exact score tie goes to the one received first.
+
 ## Questions
 
 <details>
